@@ -35,7 +35,7 @@ Desktop:
 - HSK 2 Everyday Chinese
 
 # Updates
-This deck will be continuously updated. Please check this GutHub repository for future updates.
+This deck will be continuously updated. Please check this GitHub repository for future updates.
 
 ### Material that will be added:
 - Future Konfuzius-Institut courses  
@@ -46,18 +46,20 @@ This deck will be continuously updated. Please check this GutHub repository for 
 - HSK6 sentences
 
 ### Misc
+- Grammar: ☕️ 
 - Nouns are in the form "yi + Measure Word + Noun
 - Silhouette 
 - German and English added
 - Tags 
 
-### Useful Add-Ons (Desktop)
-
+### Useful Anki Add-Ons (Desktop)
+- Hanzi Stats: https://ankiweb.net/shared/info/181243826
+- Chinese Support Redux: https://ankiweb.net/shared/info/1128979221
 
 ### Customization
 - Font colour
 - Font size
 - Card layout
-- new contents
+- New contents
 
 contact me!
