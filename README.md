@@ -1,5 +1,5 @@
 # Anki-xuehanyu
-This is a flashcard deck made for the application Anki. The deck contains material learned in the courses A1.2, A1.3 and A1.4 Chinese in 2020, at the Konfuzius-Institut Frankfurt am Main. The deck will be updated in the future to contain further material for learning Mandarin Chinese. 
+This is a flashcard deck I made for the application Anki. The deck contains material learned in the courses A1.2, A1.3 and A1.4 at the Konfuzius-Institut Frankfurt am Main in 2020. The deck will be updated in the future to contain further material for learning Mandarin Chinese. 
 
 # About Anki
 - Anki is a free and open-source flashcard program that utilizes spaced repetition. 
@@ -18,25 +18,28 @@ Anki is available on Desktop, iOS and Android.
 - iOS (*sadly not free*): [https://apps.apple.com/us/app/ankimobile-flashcards/id373493387](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) 
 - Android: [https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en)
 
-### Download the Deck
-Download the deck from GitHub: https://github.com/camayl/Anki-xuehanyu/blob/master/Chinese_vocabulary_%20xuehanyu.apkg
+Note: if you want to sync your progress across devices, make sure to log into Anki. An account can be created by clicking on "*Sync* in the desktop version.
+
+### Download the deck xuehanyu
+Download the deck from GitHub here: https://github.com/camayl/Anki-xuehanyu/blob/master/Chinese_vocabulary_%20xuehanyu.apkg
 
 ### Import the Deck
 Desktop: 
 1. open Anki
 2. Click *Import File*
 3. Select Chinese_xuehanyu.apkg
+
 # Current Deck Contents
 ### 27.06.2020
 - A1.2
 - A1.3
 - A1.4
-- HSK2 (Everyday Chinese): https://www.youtube.com/watch?v=ttmqMaoMdVw&
+- HSK2 sentences (source: [Youtube Everyday Chinese](https://www.youtube.com/watch?v=ttmqMaoMdVw&))
 
 # Updates
 This deck will be continuously updated. Please check this GitHub repository for future updates.
 
-### Material that will be added:
+### Material that I plan to add:
 - Future Konfuzius-Institut courses  
 - HSK2 sentences 
 - HSK3 sentences
@@ -45,21 +48,24 @@ This deck will be continuously updated. Please check this GitHub repository for 
 - HSK6 sentences
 
 ### Misc
-- Grammar wiki links is indicated by this symbol: ☕️ 
+- Grammar wiki links are indicated by this symbol: ☕️ 
 - Nouns are in the form "yi + Measure Word + Noun (example: 一辆车 - yī liàng chē - a car)
 - Silhouettes: can be used as hints (example: front card: _ _ _  a car; back card 一辆车 - yī liàng chē)
-- German and English added
-- Tags 
+- German and English supported
 
 ### Useful Anki Add-Ons (Desktop)
-- Hanzi Stats: https://ankiweb.net/shared/info/181243826
-- Chinese Support Redux: https://ankiweb.net/shared/info/1128979221
+- [Hanzi Stats](https://ankiweb.net/shared/info/181243826): shows you the number of Hanzi you have learnt and compares them with HSK lists, showing you which words you still need to learn.
+ -- 
+- [Chinese Support Redux](https://ankiweb.net/shared/info/1128979221): the great add-on I use to create cards. 
 
-### Customization
+### Possible Customization
 - Font colour
 - Font size
+- Font style
 - Card layout
 - English or German 
 - Turn on/off silhouette
 
-contact me if you want any customization of your card deck!
+Contact me via email if you want any customization of your card deck or want an Anki crash course :)
+
+玩得开心！
