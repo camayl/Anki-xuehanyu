@@ -19,7 +19,7 @@ Anki is available on Desktop, iOS and Android.
 - Android: [https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en)
 
 ### Download the Deck
-Download the deck from GitHub: [https://github.com/camayl/Anki-xuehanyu/raw/master/Chinese_vocabulary_%20xuehanyu.apkg](Chinese_xuehanyu.apkg)
+Download the deck from GitHub: [https://github.com/camayl/Anki-xuehanyu/blob/master/Chinese_vocabulary_%20xuehanyu.apkg](Chinese_xuehanyu.apkg)
 
 ### Import the Deck
 Desktop: 
