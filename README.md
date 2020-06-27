@@ -11,20 +11,36 @@ This is a flashcard deck made for the application Anki. The deck contains materi
 ![Spaced-Repetition](https://wildfirecomms-images.co.uk/img/ebbinghaus-diagram-1-1479295300.png)
 
 # Quick Start
+### Download Anki
 Anki is available on Desktop, iOS and Android.
 
 - Desktop: [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 - iOS (*sadly not free*): [https://apps.apple.com/us/app/ankimobile-flashcards/id373493387](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) 
 - Android: [https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en)
 
-Download the deck from GitHub
-# Deck Contents
+### Download the Deck
+Download the deck from GitHub: [https://github.com/camayl/Anki-xuehanyu/raw/master/Chinese_vocabulary_%20xuehanyu.apkg](Chinese_xuehanyu.apkg)
 
-# Deck Layout
+### Import the Deck
+Desktop: 
+1. open Anki
+2. Click *Import File*
+3. Select Chinese_xuehanyu.apkg
+# Current Deck Contents
+### 27.06.2020
+- A1.2
+- A1.3
+- A1.4
+- HSK 1 Mandarin Corner
+- HSK 2 Everyday Chinese
 
 # Updates
 This deck will be continuously updated. Please check this GutHub repository for future updates.
 
 ### Material that will be added:
-- Material from future Konfuzius-Institut courses  
-- HSK sentences from the Youtube channels *Everyday Chinese* and *Mandarin Corner* 
+- Future Konfuzius-Institut courses  
+- HSK2 sentences 
+- HSK3 sentences
+- HSK4 sentences
+- HSK5 sentences 
+- HSK6 sentences
