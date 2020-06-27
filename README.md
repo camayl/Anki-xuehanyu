@@ -29,6 +29,11 @@ Desktop:
 2. Click *Import File*
 3. Select Chinese_xuehanyu.apkg
 
+Mobile:
+1. Put Chinese_xuehanyu.apkg on your phone
+2. In app, click *Import*
+3. Navigate to Chinese_xuehanyu.apkg
+
 # Current Deck Contents
 ### 27.06.2020
 - A1.2
@@ -47,18 +52,18 @@ This deck will be continuously updated and updates will be published on this sit
 - HSK5 sentences 
 - HSK6 sentences
 
-### Misc
+# Misc
 - Grammar wiki links are indicated by this symbol: ☕️ 
 - Nouns are in the form "yi + Measure Word + Noun (example: 一辆车 - yī liàng chē - a car)
 - Silhouettes: can be used as hints (example: front card: _ _ _  a car; back card 一辆车 - yī liàng chē)
 - German and English supported
 
-### Useful Anki Add-Ons (Desktop)
+# Useful Anki Add-Ons (Desktop)
 - [Hanzi Stats](https://ankiweb.net/shared/info/181243826): shows you the number of Hanzi you have learnt and compares them with HSK lists, showing you which words you still need to learn.
  -- 
 - [Chinese Support Redux](https://ankiweb.net/shared/info/1128979221): the great add-on I use to create cards. 
 
-### Possible Customization
+# Possible Customisations
 - Font colour
 - Font size
 - Font style
