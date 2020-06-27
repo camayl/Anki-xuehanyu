@@ -44,3 +44,20 @@ This deck will be continuously updated. Please check this GutHub repository for 
 - HSK4 sentences
 - HSK5 sentences 
 - HSK6 sentences
+
+### Misc
+- Nouns are in the form "yi + Measure Word + Noun
+- Silhouette 
+- German and English added
+- Tags 
+
+### Useful Add-Ons (Desktop)
+
+
+### Customization
+- Font colour
+- Font size
+- Card layout
+- new contents
+
+contact me!
