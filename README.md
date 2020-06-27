@@ -31,8 +31,7 @@ Desktop:
 - A1.2
 - A1.3
 - A1.4
-- HSK 1 Mandarin Corner
-- HSK 2 Everyday Chinese
+- HSK2 (Everyday Chinese): https://www.youtube.com/watch?v=ttmqMaoMdVw&
 
 # Updates
 This deck will be continuously updated. Please check this GitHub repository for future updates.
@@ -46,9 +45,9 @@ This deck will be continuously updated. Please check this GitHub repository for 
 - HSK6 sentences
 
 ### Misc
-- Grammar: ☕️ 
-- Nouns are in the form "yi + Measure Word + Noun
-- Silhouette 
+- Grammar wiki links is indicated by this symbol: ☕️ 
+- Nouns are in the form "yi + Measure Word + Noun (example: 一辆车 - yī liàng chē - a car)
+- Silhouettes: can be used as hints (example: front card: _ _ _  a car; back card 一辆车 - yī liàng chē)
 - German and English added
 - Tags 
 
@@ -60,6 +59,7 @@ This deck will be continuously updated. Please check this GitHub repository for 
 - Font colour
 - Font size
 - Card layout
-- New contents
+- English or German 
+- Turn on/off silhouette
 
-contact me!
+contact me if you want any customization of your card deck!
