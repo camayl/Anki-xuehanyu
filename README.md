@@ -21,7 +21,7 @@ Anki is available on Desktop, iOS and Android.
 Note: if you want to sync your progress across devices, make sure to log into Anki. An account can be created by clicking on "*Sync* in the desktop version.
 
 ### Download the deck xuehanyu
-Download the deck from GitHub here: https://github.com/camayl/Anki-xuehanyu/blob/master/Chinese_vocabulary_%20xuehanyu.apkg
+Download the deck from GitHub here: https://github.com/camayl/Anki-xuehanyu/blob/master/Chinese%20vocabulary_%20xuehanyu.apkg
 
 ### Import the Deck
 Desktop: 
