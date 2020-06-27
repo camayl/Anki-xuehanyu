@@ -37,7 +37,7 @@ Desktop:
 - HSK2 sentences (source: [Youtube Everyday Chinese](https://www.youtube.com/watch?v=ttmqMaoMdVw&))
 
 # Updates
-This deck will be continuously updated. Please check this GitHub repository for future updates.
+This deck will be continuously updated and updates will be published on this site. Please check this GitHub repository for future updates.
 
 ### Material that I plan to add:
 - Future Konfuzius-Institut courses  
