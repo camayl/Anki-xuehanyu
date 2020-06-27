@@ -60,8 +60,8 @@ This deck will be continuously updated and updates will be published on this sit
 
 # Useful Anki Add-Ons (Desktop)
 - [Hanzi Stats](https://ankiweb.net/shared/info/181243826): shows you the number of Hanzi you have learnt and compares them with HSK lists, showing you which words you still need to learn.
- -- 
-- [Chinese Support Redux](https://ankiweb.net/shared/info/1128979221): the great add-on I use to create cards. 
+
+- [Chinese Support Redux](https://ankiweb.net/shared/info/1128979221): add-on I use to create cards. 
 
 # Possible Customisations
 - Font colour
@@ -71,6 +71,6 @@ This deck will be continuously updated and updates will be published on this sit
 - English or German 
 - Turn on/off silhouette
 
-Contact me via email if you want any customization of your card deck or want an Anki crash course :)
+Contact me if you want any customization of your card deck or want an Anki crash course :)
 
 玩得开心！
